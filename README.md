@@ -2,7 +2,6 @@
 
 Version: 1.0
 Author: Aashish_Cyber_H4CKS
-📌 Description
 
 This tool generates password wordlists using two powerful modes:
 
@@ -58,6 +57,3 @@ Files are automatically named with a timestamp for easy tracking.
 This tool is intended only for educational and ethical use.
 Using this for unauthorized access or illegal activity is strictly forbidden.
 The author is not responsible for any misuse of this tool.
-🧠 Credits
-
-Made with ❤️ by Aashish_Cyber_H4CKS
