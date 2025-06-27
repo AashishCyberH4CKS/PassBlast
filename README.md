@@ -1,83 +1,63 @@
-🔐 BruteForce Password Wordlist Generator
+# 🔐 BruteForce Password Wordlist Generator
 
-Version: 1.0Author: Aashish_Cyber_H4CKS
-
+Version: 1.0
+Author: Aashish_Cyber_H4CKS
 📌 Description
 
-This tool generates password wordlists using two modes:
+This tool generates password wordlists using two powerful modes:
 
-Random Mode: Creates continuously random strong passwords using letters, digits, and symbols.
+    🎲 Random Mode: Automatically creates strong random passwords using uppercase, lowercase, digits, and special symbols.
 
-Custom Mode: Creates personalized password wordlists based on names, birthdays, and other user-specific information.
+    🛠️ Custom Mode: Generates personalized wordlists based on user inputs like names, birthdays, pet names, and more.
+    ------------------------------------------------------------------------------------------------------------------
 
-Wordlists are saved in a dedicated Wordlists/ folder automatically.
-
+Wordlists are stored automatically inside a structured Wordlists/ directory.
 ⚙️ Features
 
-Neon blue hacker-style ASCII banner
+    💠 Neon blue hacker-style ASCII banner
 
-Menu-driven CLI
+    🧭 Interactive CLI menu
 
-Random password generation
+    🔁 Random password generation
 
-Custom password generation using:
-
-First name
-
-Last name
-
-Date of birth
-
-Nickname
-
-Partner’s name
-
-Mother's name
-
-Father's name
-
-Pet name
-
-Any other custom words
-
-Auto-saving of generated passwords
-
-Organized output folder: Wordlists/
+    🧩 Custom wordlist creation using:
+        First Name
+        Last Name
+        Date of Birth
+        Nickname
+        Partner's Name
+        Mother's Name
+        Father's Name
+        Pet Name
+        Any custom words
+    💾 Auto-saving of generated lists
+    📁 Organized output saved to Wordlists/ folder
 
 🚀 How to Run
-
-Clone or download the project.
-
-Make sure you have Python 3 installed.
-
-Run the script:
+    📥 Clone or download this repository
+    🐍 Make sure Python 3.x is installed
+    ▶️ Run the tool using:
 
 python bruteforce_wordlist_generator.py
 
-Choose:
-
-1 for random wordlist generation
-
-2 for custom wordlist based on user details
+    📑 Choose an option from the menu:
+        1 → Generate random wordlist
+        2 → Create a custom wordlist
 
 📁 Output
+All generated wordlists will be saved to a folder named Wordlists/ in the tool's directory.
+Files are automatically named with a timestamp for easy tracking.
+💡 Use Cases
 
-All generated wordlists will be saved in a folder called Wordlists/ inside the tool’s directory. The file will be named based on timestamp.
-
-💡 Use Case
-
-Ethical hacking
-
-Penetration testing
-
-Password recovery scenarios (educational/legal)
-
-CTFs (Capture The Flag)
+    🛡️ Ethical Hacking
+    🔍 Penetration Testing
+    🔑 Password Recovery (legal purposes only)
+    🧠 CTFs (Capture The Flag challenges)
 
 ⚠️ Disclaimer
-
-This tool is made for educational and ethical purposes only. Misuse of this tool for unauthorized attacks or illegal purposes is strictly prohibited.
-
+This tool is intended only for educational and ethical use.
+Using this for unauthorized access or illegal activity is strictly forbidden.
+The author is not responsible for any misuse of this tool.
 🧠 Credits
 
 Made with ❤️ by Aashish_Cyber_H4CKS
